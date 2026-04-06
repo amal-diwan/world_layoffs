@@ -62,7 +62,7 @@ This analysis aims to answer:
 ## Key Insights
 
 - 🇺🇸 The **United States** accounts for over **70% of global layoffs**  
-- 🏭 Most impacted industries:
+- Most impacted industries:
   - Consumer  
   - Retail  
   - Transportation  
