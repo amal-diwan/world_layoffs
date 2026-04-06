@@ -68,9 +68,9 @@ This analysis aims to answer:
   - Transportation  
   - Finance  
   - Healthcare  
-- 💰 Companies with **lower funding and smaller size** tend to have higher layoffs  
-- 📉 Even highly funded companies experienced significant layoffs  
-- 📊 Layoffs trend:
+- Companies with **lower funding and smaller size** tend to have higher layoffs  
+- Even highly funded companies experienced significant layoffs  
+- Layoffs trend:
   - Major spike in **November 2022**  
   - Drop in December  
   - Surge again in early 2023  
